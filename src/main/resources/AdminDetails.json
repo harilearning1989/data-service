@@ -1,0 +1,142 @@
+[
+  {
+    "adminId": "1",
+    "firstName": "Alice",
+    "lastName": "Smith5",
+    "gender": "Female",
+    "phone": "555-555-5555",
+    "email": "alicesmith5@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "OH",
+      "zip": "12345"
+    }
+  },
+  {
+    "adminId": "2",
+    "firstName": "Bob",
+    "lastName": "Johnson5",
+    "gender": "Male",
+    "phone": "555-555-5556",
+    "email": "bobjohnson5@example.com",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Otherville",
+      "state": "CA",
+      "zip": "54321"
+    }
+  },
+  {
+    "adminId": "3",
+    "firstName": "Charlie",
+    "lastName": "Williams5",
+    "gender": "Male",
+    "phone": "555-555-5557",
+    "email": "charliewilliams5@example.com",
+    "address": {
+      "street": "789 Oak St",
+      "city": "Smalltown",
+      "state": "TX",
+      "zip": "67890"
+    }
+  },
+  {
+    "adminId": "4",
+    "firstName": "David",
+    "lastName": "Brown5",
+    "gender": "Male",
+    "phone": "555-555-5558",
+    "email": "davidbrown5@example.com",
+    "address": {
+      "street": "321 Pine St",
+      "city": "Bigtown",
+      "state": "NY",
+      "zip": "23456"
+    }
+  },
+  {
+    "adminId": "5",
+    "firstName": "Eve",
+    "lastName": "Jones5",
+    "gender": "Female",
+    "phone": "555-555-5559",
+    "email": "evejones5@example.com",
+    "address": {
+      "street": "654 Cedar St",
+      "city": "Townton",
+      "state": "FL",
+      "zip": "78901"
+    }
+  },
+  {
+    "adminId": "6",
+    "firstName": "Frank",
+    "lastName": "Garcia5",
+    "gender": "Male",
+    "phone": "555-555-5560",
+    "email": "frankgarcia5@example.com",
+    "address": {
+      "street": "987 Maple St",
+      "city": "Mapletown",
+      "state": "GA",
+      "zip": "56789"
+    }
+  },
+  {
+    "adminId": "7",
+    "firstName": "Grace",
+    "lastName": "Martinez5",
+    "gender": "Female",
+    "phone": "555-555-5561",
+    "email": "gracemartinez5@example.com",
+    "address": {
+      "street": "234 Birch St",
+      "city": "Birchtown",
+      "state": "AZ",
+      "zip": "12345"
+    }
+  },
+  {
+    "adminId": "8",
+    "firstName": "Harry",
+    "lastName": "Young5",
+    "gender": "Male",
+    "phone": "555-555-5562",
+    "email": "harryyoung5@example.com",
+    "address": {
+      "street": "876 Oak St",
+      "city": "Oaktown",
+      "state": "CA",
+      "zip": "54321"
+    }
+  },
+  {
+    "adminId": "9",
+    "firstName": "Ivy",
+    "lastName": "Lopez5",
+    "gender": "Female",
+    "phone": "555-555-5565",
+    "email": "ivylopez5@example.com",
+    "address": {
+      "street": "765 Elm St",
+      "city": "Elmtown",
+      "state": "OH",
+      "zip": "23456"
+    }
+  },
+  {
+    "adminId": "10",
+    "firstName": "Jack",
+    "lastName": "King5",
+    "gender": "Male",
+    "phone": "555-555-5564",
+    "email": "jackking5@example.com",
+    "address": {
+      "street": "543 Pine St",
+      "city": "Pinetown",
+      "state": "FL",
+      "zip": "67890"
+    }
+  }
+]

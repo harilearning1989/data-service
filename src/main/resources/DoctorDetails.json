@@ -1,0 +1,152 @@
+[
+  {
+    "doctorId": "1",
+    "firstName": "Alice",
+    "lastName": "Smith1",
+    "gender": "Female",
+    "specialty": "Cardiology",
+    "phone": "555-555-5555",
+    "email": "alicesmith@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "OH",
+      "zip": "12345"
+    }
+  },
+  {
+    "doctorId": "2",
+    "firstName": "Bob",
+    "lastName": "Johnson1",
+    "gender": "Male",
+    "specialty": "Orthopedics",
+    "phone": "555-555-5556",
+    "email": "bobjohnson@example.com",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Otherville",
+      "state": "CA",
+      "zip": "54321"
+    }
+  },
+  {
+    "doctorId": "3",
+    "firstName": "Charlie",
+    "lastName": "Williams1",
+    "gender": "Male",
+    "specialty": "Pediatrics",
+    "phone": "555-555-5557",
+    "email": "charliewilliams@example.com",
+    "address": {
+      "street": "789 Oak St",
+      "city": "Smalltown",
+      "state": "TX",
+      "zip": "67890"
+    }
+  },
+  {
+    "doctorId": "4",
+    "firstName": "David",
+    "lastName": "Brown1",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "phone": "555-555-5558",
+    "email": "davidbrown@example.com",
+    "address": {
+      "street": "321 Pine St",
+      "city": "Bigtown",
+      "state": "NY",
+      "zip": "23456"
+    }
+  },
+  {
+    "doctorId": "5",
+    "firstName": "Eve",
+    "lastName": "Jones1",
+    "gender": "Female",
+    "specialty": "Ophthalmology",
+    "phone": "555-555-5559",
+    "email": "evejones@example.com",
+    "address": {
+      "street": "654 Cedar St",
+      "city": "Townton",
+      "state": "FL",
+      "zip": "78901"
+    }
+  },
+  {
+    "doctorId": "6",
+    "firstName": "Frank",
+    "lastName": "Garcia1",
+    "gender": "Male",
+    "specialty": "Neurology",
+    "phone": "555-555-5560",
+    "email": "frankgarcia@example.com",
+    "address": {
+      "street": "987 Maple St",
+      "city": "Mapletown",
+      "state": "GA",
+      "zip": "56789"
+    }
+  },
+  {
+    "doctorId": "7",
+    "firstName": "Grace",
+    "lastName": "Martinez1",
+    "gender": "Female",
+    "specialty": "Internal Medicine",
+    "phone": "555-555-5561",
+    "email": "gracemartinez@example.com",
+    "address": {
+      "street": "234 Birch St",
+      "city": "Birchtown",
+      "state": "AZ",
+      "zip": "12345"
+    }
+  },
+  {
+    "doctorId": "8",
+    "firstName": "Harry",
+    "lastName": "Young1",
+    "gender": "Male",
+    "specialty": "Surgery",
+    "phone": "555-555-5562",
+    "email": "harryyoung@example.com",
+    "address": {
+      "street": "876 Oak St",
+      "city": "Oaktown",
+      "state": "CA",
+      "zip": "54321"
+    }
+  },
+  {
+    "doctorId": "9",
+    "firstName": "Ivy",
+    "lastName": "Lopez1",
+    "gender": "Female",
+    "specialty": "Psychiatry",
+    "phone": "555-555-5563",
+    "email": "ivylopez@example.com",
+    "address": {
+      "street": "765 Elm St",
+      "city": "Elmtown",
+      "state": "OH",
+      "zip": "23456"
+    }
+  },
+  {
+    "doctorId": "10",
+    "firstName": "Jack",
+    "lastName": "King1",
+    "gender": "Male",
+    "specialty": "Urology",
+    "phone": "555-555-5564",
+    "email": "jackking@example.com",
+    "address": {
+      "street": "543 Pine St",
+      "city": "Pinetown",
+      "state": "FL",
+      "zip": "67890"
+    }
+  }
+]

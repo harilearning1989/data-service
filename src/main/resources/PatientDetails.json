@@ -1,0 +1,302 @@
+[
+  {
+    "patientId": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "dateOfBirth": "1980-01-01",
+    "gender": "Male",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "OH",
+      "zip": "12345"
+    },
+    "phone": "555-555-5555",
+    "email": "johndoe@example.com",
+    "emergencyContact": {
+      "name": "Jane Doe",
+      "relationship": "Spouse",
+      "phone": "555-555-5556"
+    }
+  },
+  {
+    "patientId": "2",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "dateOfBirth": "1985-05-10",
+    "gender": "Female",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Otherville",
+      "state": "CA",
+      "zip": "54321"
+    },
+    "phone": "555-555-5557",
+    "email": "janesmith@example.com",
+    "emergencyContact": {
+      "name": "John Smith",
+      "relationship": "Spouse",
+      "phone": "555-555-5558"
+    }
+  },
+  {
+    "patientId": "3",
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "dateOfBirth": "1992-08-15",
+    "gender": "Female",
+    "address": {
+      "street": "789 Oak Ave",
+      "city": "Smalltown",
+      "state": "TX",
+      "zip": "67890"
+    },
+    "phone": "555-555-5559",
+    "email": "emilyjohnson@example.com",
+    "emergencyContact": {
+      "name": "Tom Johnson",
+      "relationship": "Sibling",
+      "phone": "555-555-5560"
+    }
+  },
+  {
+    "patientId": "4",
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "dateOfBirth": "1978-03-25",
+    "gender": "Male",
+    "address": {
+      "street": "321 Elm St",
+      "city": "Bigtown",
+      "state": "NY",
+      "zip": "54321"
+    },
+    "phone": "555-555-5561",
+    "email": "michaelbrown@example.com",
+    "emergencyContact": {
+      "name": "Sarah Brown",
+      "relationship": "Spouse",
+      "phone": "555-555-5562"
+    }
+  },
+  {
+    "patientId": "5",
+    "firstName": "David",
+    "lastName": "Wilson",
+    "dateOfBirth": "1990-12-12",
+    "gender": "Male",
+    "address": {
+      "street": "456 Oak St",
+      "city": "Sometown",
+      "state": "FL",
+      "zip": "56789"
+    },
+    "phone": "555-555-5563",
+    "email": "davidwilson@example.com",
+    "emergencyContact": {
+      "name": "Laura Wilson",
+      "relationship": "Sibling",
+      "phone": "555-555-5564"
+    }
+  },
+  {
+    "patientId": "6",
+    "firstName": "Jessica",
+    "lastName": "Martinez",
+    "dateOfBirth": "1989-07-20",
+    "gender": "Female",
+    "address": {
+      "street": "789 Maple St",
+      "city": "Anothertown",
+      "state": "CA",
+      "zip": "98765"
+    },
+    "phone": "555-555-5565",
+    "email": "jessicamartinez@example.com",
+    "emergencyContact": {
+      "name": "Carlos Martinez",
+      "relationship": "Spouse",
+      "phone": "555-555-5566"
+    }
+  },
+  {
+    "patientId": "7",
+    "firstName": "Christopher",
+    "lastName": "Taylor",
+    "dateOfBirth": "1983-04-18",
+    "gender": "Male",
+    "address": {
+      "street": "789 Pine St",
+      "city": "Yetanothertown",
+      "state": "TX",
+      "zip": "23456"
+    },
+    "phone": "555-555-5567",
+    "email": "christophertaylor@example.com",
+    "emergencyContact": {
+      "name": "Michelle Taylor",
+      "relationship": "Sibling",
+      "phone": "555-555-5568"
+    }
+  },
+  {
+    "patientId": "8",
+    "firstName": "Amanda",
+    "lastName": "Hernandez",
+    "dateOfBirth": "1987-10-05",
+    "gender": "Female",
+    "address": {
+      "street": "789 Cedar St",
+      "city": "Townville",
+      "state": "CA",
+      "zip": "45678"
+    },
+    "phone": "555-555-5569",
+    "email": "amandahernandez@example.com",
+    "emergencyContact": {
+      "name": "Juan Hernandez",
+      "relationship": "Spouse",
+      "phone": "555-555-5570"
+    }
+  },
+  {
+    "patientId": "9",
+    "firstName": "Kevin",
+    "lastName": "Garcia",
+    "dateOfBirth": "1982-11-30",
+    "gender": "Male",
+    "address": {
+      "street": "789 Birch St",
+      "city": "Mapletown",
+      "state": "NY",
+      "zip": "34567"
+    },
+    "phone": "555-555-5571",
+    "email": "kevingarcia@example.com",
+    "emergencyContact": {
+      "name": "Maria Garcia",
+      "relationship": "Sibling",
+      "phone": "555-555-5572"
+    }
+  },
+  {
+    "patientId": "10",
+    "firstName": "Sarah",
+    "lastName": "Rodriguez",
+    "dateOfBirth": "1995-02-14",
+    "gender": "Female",
+    "address": {
+      "street": "789 Willow St",
+      "city": "Willowtown",
+      "state": "CA",
+      "zip": "56789"
+    },
+    "phone": "555-555-5573",
+    "email": "sarahrodriguez@example.com",
+    "emergencyContact": {
+      "name": "Jose Rodriguez",
+      "relationship": "Spouse",
+      "phone": "555-555-5574"
+    }
+  },
+  {
+    "patientId": "96",
+    "firstName": "Daniel",
+    "lastName": "Lopez",
+    "dateOfBirth": "1982-06-18",
+    "gender": "Male",
+    "address": {
+      "street": "789 Pine St",
+      "city": "Smalltown",
+      "state": "CA",
+      "zip": "34567"
+    },
+    "phone": "555-555-5656",
+    "email": "danielopez@example.com",
+    "emergencyContact": {
+      "name": "Maria Lopez",
+      "relationship": "Spouse",
+      "phone": "555-555-5657"
+    }
+  },
+  {
+    "patientId": "97",
+    "firstName": "Eva",
+    "lastName": "Perez",
+    "dateOfBirth": "1984-09-22",
+    "gender": "Female",
+    "address": {
+      "street": "789 Cedar St",
+      "city": "Othertown",
+      "state": "TX",
+      "zip": "45678"
+    },
+    "phone": "555-555-5658",
+    "email": "evaperez@example.com",
+    "emergencyContact": {
+      "name": "Carlos Perez",
+      "relationship": "Spouse",
+      "phone": "555-555-5659"
+    }
+  },
+  {
+    "patientId": "98",
+    "firstName": "Gary",
+    "lastName": "Gonzalez",
+    "dateOfBirth": "1976-11-04",
+    "gender": "Male",
+    "address": {
+      "street": "789 Maple St",
+      "city": "Yetanothertown",
+      "state": "FL",
+      "zip": "56789"
+    },
+    "phone": "555-555-5660",
+    "email": "garygonzalez@example.com",
+    "emergencyContact": {
+      "name": "Tina Gonzalez",
+      "relationship": "Spouse",
+      "phone": "555-555-5661"
+    }
+  },
+  {
+    "patientId": "99",
+    "firstName": "Helen",
+    "lastName": "Nguyen",
+    "dateOfBirth": "1995-03-08",
+    "gender": "Female",
+    "address": {
+      "street": "789 Birch St",
+      "city": "Mapletown",
+      "state": "NY",
+      "zip": "34567"
+    },
+    "phone": "555-555-5662",
+    "email": "helennnguyen@example.com",
+    "emergencyContact": {
+      "name": "Tony Nguyen",
+      "relationship": "Sibling",
+      "phone": "555-555-5663"
+    }
+  },
+  {
+    "patientId": "100",
+    "firstName": "Ian",
+    "lastName": "Patel",
+    "dateOfBirth": "1988-07-17",
+    "gender": "Male",
+    "address": {
+      "street": "789 Willow St",
+      "city": "Willowtown",
+      "state": "CA",
+      "zip": "56789"
+    },
+    "phone": "555-555-5664",
+    "email": "ianpatel@example.com",
+    "emergencyContact": {
+      "name": "Priya Patel",
+      "relationship": "Spouse",
+      "phone": "555-555-5665"
+    }
+  }
+]

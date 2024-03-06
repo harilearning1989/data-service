@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Alice Smith",
+    "username": "asmith123",
+    "email": "asmith@example.com",
+    "phone": "+1234567890",
+    "hospital": "General Hospital",
+    "department": "Emergency Room"
+  },
+  {
+    "name": "Bob Johnson",
+    "username": "bjohnson456",
+    "email": "bjohnson@example.com",
+    "phone": "+1987654321",
+    "hospital": "City Medical Center",
+    "department": "Pediatrics"
+  },
+  {
+    "name": "Carol Williams",
+    "username": "cwilliams789",
+    "email": "cwilliams@example.com",
+    "phone": "+1122334455",
+    "hospital": "University Hospital",
+    "department": "Surgery"
+  },
+  {
+    "name": "David Brown",
+    "username": "dbrown321",
+    "email": "dbrown@example.com",
+    "phone": "+1555666777",
+    "hospital": "Community Hospital",
+    "department": "ICU"
+  },
+  {
+    "name": "Emma Jones",
+    "username": "ejones999",
+    "email": "ejones@example.com",
+    "phone": "+1444333222",
+    "hospital": "Regional Medical Center",
+    "department": "Cardiology"
+  },
+  {
+    "name": "Frank Wilson",
+    "username": "fwilson777",
+    "email": "fwilson@example.com",
+    "phone": "+1666888999",
+    "hospital": "Memorial Hospital",
+    "department": "Oncology"
+  },
+  {
+    "name": "Grace Davis",
+    "username": "gdavis234",
+    "email": "gdavis@example.com",
+    "phone": "+1777555444",
+    "hospital": "St. Mary's Hospital",
+    "department": "Labor and Delivery"
+  },
+  {
+    "name": "Henry Garcia",
+    "username": "hgarcia890",
+    "email": "hgarcia@example.com",
+    "phone": "+1888444333",
+    "hospital": "Children's Hospital",
+    "department": "Neonatal Intensive Care"
+  },
+  {
+    "name": "Ivy Martinez",
+    "username": "imartinez567",
+    "email": "imartinez@example.com",
+    "phone": "+1999222111",
+    "hospital": "Veterans Hospital",
+    "department": "Psychiatry"
+  },
+  {
+    "name": "Jack Hernandez",
+    "username": "jhernandez123",
+    "email": "jhernandez@example.com",
+    "phone": "+1222111333",
+    "hospital": "County Medical Center",
+    "department": "Rehabilitation"
+  }
+]

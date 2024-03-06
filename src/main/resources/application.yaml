@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: data-service
+  main:
+    banner-mode: off
+server:
+  port: 8081
+
+
+
