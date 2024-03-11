@@ -10,3 +10,12 @@ WHERE rank_salary = 3;
 select s.STUDENT_NAME,COUNT(sc.S_ID) as total_courses from STUDENTS s,STUDENT_COURSES sc
 where s.STUDENT_ID  = sc.S_ID
 group by sc.S_ID;
+
+select s.STUDENT_NAME,c.C_NAME from STUDENTS s,STUDENT_COURSES sc,COURSES c
+where s.STUDENT_ID  = sc.S_ID
+  and c.C_ID  = sc.C_ID order by s.STUDENT_NAME ;
+
+select s.STUDENT_NAME,GROUP_CONCAT(c.C_NAME SEPARATOR ',') courses from STUDENTS s,STUDENT_COURSES sc,COURSES c
+where s.STUDENT_ID  = sc.S_ID
+  and c.C_ID  = sc.C_ID
+group by s.STUDENT_NAME ;

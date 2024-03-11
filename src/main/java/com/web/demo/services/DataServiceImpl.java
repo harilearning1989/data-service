@@ -121,6 +121,14 @@ public class DataServiceImpl implements DataService {
     public List<Patient> listAllPatients() {
         return patientRepository.findAll();
     }
+    @Override
+    public List<Doctor> listAllDoctors() {
+        return doctorRepository.findAll();
+    }
+    @Override
+    public List<Admin> listAllAdmins() {
+        return adminRepository.findAll();
+    }
 
     private List<Admin> getAdminDetails(
             List<AdminRecord> adminRecordList, Map<String, User> userMap) {

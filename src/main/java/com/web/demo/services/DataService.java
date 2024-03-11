@@ -1,5 +1,7 @@
 package com.web.demo.services;
 
+import com.web.demo.models.hospital.Admin;
+import com.web.demo.models.hospital.Doctor;
 import com.web.demo.models.hospital.Patient;
 
 import java.io.IOException;
@@ -13,4 +15,8 @@ public interface DataService {
     String saveAllAdmins();
 
     List<Patient> listAllPatients();
+
+    List<Doctor> listAllDoctors();
+
+    List<Admin> listAllAdmins();
 }
